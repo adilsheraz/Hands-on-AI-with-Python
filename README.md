@@ -8,4 +8,4 @@ This course is designed in collaboration with Women University Swabi. Educating 
 * **Lecture 4** [Notebook](https://github.com/adilsheraz/Hands-on-AI-with-Python/blob/main/Notebooks/Lecture_4_DataStructures_Sets%20.ipynb) [Video](https://www.youtube.com/watch?v=YHUwJ04Hslo&list=PLc8fooq3ucaEKojs8cipC42DIY7xTyA0l&index=4)
 * **Lecture 5** [Notebook](https://github.com/adilsheraz/Hands-on-AI-with-Python/blob/main/Notebooks/Lecture_5_DataStructures_Tuples.ipynb) [Video](https://www.youtube.com/watch?v=-jzUPJO9Tn8&list=PLc8fooq3ucaEKojs8cipC42DIY7xTyA0l&index=5)
 
-Complete playlist of lectures are available at [Youtube_Channel](https://www.youtube.com/playlist?list=PLc8fooq3ucaEKojs8cipC42DIY7xTyA0l) 
+Complete playlist of lectures can be found [here](https://www.youtube.com/playlist?list=PLc8fooq3ucaEKojs8cipC42DIY7xTyA0l) 
